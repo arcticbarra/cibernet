@@ -1,0 +1,30 @@
+.nav-wrapper{
+  background: rgb(255, 255, 255);
+}
+
+nav .nav-wrapper .brand-logo{
+  color: rgb(17, 53, 107);
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.nav-wrapper ul li a{
+  color: rgb(17, 53, 107);
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+i {
+  color: rgb(17, 53, 107);
+}
+
+.slider .indicators .indicator-item.active {
+  background-color: rgb(17, 53, 107);
+}
+
+footer.page-footer {
+  background-color: white;
+  color: rgb(17, 53, 107);
+}
+
+body {
+  background-color: white;
+}

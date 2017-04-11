@@ -1,0 +1,13 @@
+{
+  "name": "cibernet",
+  "version": "1.0.0",
+  "description": "Sitio para cibernet",
+  "main": "app.js",
+  "author": "Enrique Barragan",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4"
+  }
+}
